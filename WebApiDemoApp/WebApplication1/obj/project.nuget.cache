@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/IM8+aO1bcLjhOPN1ZBkh3qhrrB1h05QXwwrpiA3wmn4VbEZ57GFi2N8yFwoU7NXaj7mb9yGNt1DIA02AMb1g==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\WebApiDemo\\WebApiDemoApp\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elston\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
